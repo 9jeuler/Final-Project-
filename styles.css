@@ -36,6 +36,9 @@ footer img{
 #princessDaisy-bg{
     background-color: #ffaa22;
 }
+#toad-bg{
+    background-color: #ffaa22;
+}
 #yoshi-bg{
     background-color: #259900;
 }
@@ -69,7 +72,12 @@ nav > a:hover{
     background-color: #22aaff;
 }
 #mario1 img{
-    margin-left:15%;
+  display: block;
+margin-left: auto;
+margin-right: auto;
+    padding-top: 5px;
+    height: 300px;
+    width: 250px;
 }
 
 #luigi1 img{
@@ -86,3 +94,13 @@ nav > a:hover{
 .description{
     padding: 0 10%;
     color: white;
+     font-family: "Times New Roman", Times, serif;
+     font-size: 25px;
+}
+
+.name{
+    text-align: center;
+    color: white;
+     font-family: "Times New Roman", Times, serif;
+     font-size: 50px;
+}
