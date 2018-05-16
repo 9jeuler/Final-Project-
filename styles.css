@@ -7,7 +7,7 @@ body{
 
 .platform{
     width: 1000px;
-    height: 1620px;
+    height: 1800px;
     opacity: 0.90;
     margin:0 auto;
     color: #ffffff;
@@ -30,15 +30,15 @@ footer img{
 }
 
 #princessPeach-bg{
-    background-color: #250000;
+    background-color: #FFC0CB;
 }
 
 #princessDaisy-bg{
     background-color: #ffaa22;
 }
 #toad-bg{
-    background-color: #ffaa22;
-}
+    background-color: #cc0000
+  }
 #yoshi-bg{
     background-color: #259900;
 }
@@ -55,11 +55,12 @@ footer img{
 
 
 nav{
-    height: 60px;
+    height: 75px;
     display: flex;
-
+    padding-top: 20px;
 }
 nav > a{
+
     flex: 1;
     text-align: center;
     text-decoration: none;
