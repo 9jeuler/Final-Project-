@@ -30,7 +30,7 @@ footer img{
 }
 
 #princessPeach-bg{
-    background-color: #FFC0CB;
+    background-color: #FFC0CA;
 }
 
 #princessDaisy-bg{
@@ -40,7 +40,7 @@ footer img{
     background-color: #cc0000
   }
 #yoshi-bg{
-    background-color: #259900;
+    background-color: #309900;
 }
 
 #banner{
@@ -82,16 +82,60 @@ margin-right: auto;
 }
 
 #luigi1 img{
-    margin-left:20%;
+  display: block;
+margin-left: auto;
+margin-right: auto;
+    padding-top: 5px;
+    height: 350px;
+    width: 250px;
+}
+
+#luigi2 img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5px;
+  height: 250px;
+  width: 300px;
 }
 
 #princessPeach1 img{
-    margin-left: 20%;
+  display: block;
+margin-left: auto;
+margin-right: auto;
+    padding-top: 5px;
+    height: 300px;
+    width: 250px;
 }
 
 #princessDaisy1 img{
-    margin-left: 15%;
+  display: block;
+margin-left: auto;
+margin-right: auto;
+    padding-top: 5px;
+    height: 300px;
+    width: 250px;
 }
+
+
+#toad1 img{
+  display: block;
+margin-left: auto;
+margin-right: auto;
+    padding-top: 5px;
+    height: 300px;
+    width: 250px;
+}
+
+#yoshi1 img{
+  display: block;
+margin-left: auto;
+margin-right: auto;
+    padding-top: 5px;
+    height: 300px;
+    width: 250px;
+}
+
 .description{
     padding: 0 10%;
     color: white;
