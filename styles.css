@@ -104,8 +104,17 @@ margin-right: auto;
 margin-left: auto;
 margin-right: auto;
     padding-top: 5px;
+    height: 400px;
+    width: 300px;
+}
+
+#princessPeach2 img{
+  display: block;
+margin-left: auto;
+margin-right: auto;
+    padding-top: 5px;
     height: 300px;
-    width: 250px;
+    width: 500px;
 }
 
 #princessDaisy1 img{
@@ -117,6 +126,14 @@ margin-right: auto;
     width: 250px;
 }
 
+#princessDaisy2 img{
+  display: block;
+margin-left: auto;
+margin-right: auto;
+    padding-top: 5px;
+    height: 300px;
+    width: 500px;
+}
 
 #toad1 img{
   display: block;
@@ -124,6 +141,15 @@ margin-left: auto;
 margin-right: auto;
     padding-top: 5px;
     height: 300px;
+    width: 250px;
+}
+
+#toad2 img{
+  display: block;
+margin-left: auto;
+margin-right: auto;
+    padding-top: 5px;
+    height: 250px;
     width: 250px;
 }
 
@@ -137,10 +163,10 @@ margin-right: auto;
 }
 
 .description{
-    padding: 0 10%;
+    padding: 0 7%;
     color: white;
      font-family: "Times New Roman", Times, serif;
-     font-size: 25px;
+     font-size: 21px;
 }
 
 .name{
@@ -148,4 +174,7 @@ margin-right: auto;
     color: white;
      font-family: "Times New Roman", Times, serif;
      font-size: 50px;
+}
+.toadsworth{
+  float: left;
 }
