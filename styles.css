@@ -74,20 +74,20 @@ nav > a:hover{
 }
 #mario1 img{
   display: block;
-margin-left: auto;
-margin-right: auto;
-    padding-top: 5px;
-    height: 300px;
-    width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5px;
+  height: 300px;
+  width: 250px;
 }
 
 #luigi1 img{
   display: block;
-margin-left: auto;
-margin-right: auto;
-    padding-top: 5px;
-    height: 350px;
-    width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5px;
+  height: 350px;
+  width: 250px;
 }
 
 #luigi2 img{
@@ -101,65 +101,75 @@ margin-right: auto;
 
 #princessPeach1 img{
   display: block;
-margin-left: auto;
-margin-right: auto;
-    padding-top: 5px;
-    height: 400px;
-    width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5px;
+  height: 400px;
+  width: 300px;
 }
 
 #princessPeach2 img{
   display: block;
-margin-left: auto;
-margin-right: auto;
-    padding-top: 5px;
-    height: 300px;
-    width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5px;
+  height: 300px;
+  width: 500px;
 }
 
 #princessDaisy1 img{
   display: block;
-margin-left: auto;
-margin-right: auto;
-    padding-top: 5px;
-    height: 300px;
-    width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5px;
+  height: 300px;
+  width: 250px;
 }
 
 #princessDaisy2 img{
   display: block;
-margin-left: auto;
-margin-right: auto;
-    padding-top: 5px;
-    height: 300px;
-    width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5px;
+  height: 300px;
+  width: 500px;
 }
 
 #toad1 img{
   display: block;
-margin-left: auto;
-margin-right: auto;
-    padding-top: 5px;
-    height: 300px;
-    width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5px;
+  height: 300px;
+  width: 250px;
 }
 
 #toad2 img{
   display: block;
-margin-left: auto;
-margin-right: auto;
-    padding-top: 5px;
-    height: 250px;
-    width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5px;
+  height: 250px;
+  width: 250px;
+
 }
 
 #yoshi1 img{
   display: block;
-margin-left: auto;
-margin-right: auto;
-    padding-top: 5px;
-    height: 300px;
-    width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5px;
+  height: 300px;
+  width: 250px;
+}
+
+#birdo1 img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5px;
+  height: 300px;
+  width: 250px;
 }
 
 .description{
@@ -174,7 +184,4 @@ margin-right: auto;
     color: white;
      font-family: "Times New Roman", Times, serif;
      font-size: 50px;
-}
-.toadsworth{
-  float: left;
 }
